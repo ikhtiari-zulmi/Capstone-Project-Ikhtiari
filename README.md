@@ -1,3 +1,7 @@
+# Store Management System (Capstone Project)
+**Author:** Ikhtiari Zulmiati Arifin Pua Geno  
+**Program:** Business Data Analyst – Purwadhika
+
 # Short Project Overview
 This Store Management System is a Python-based application developed as a Capstone Project for the Business Data Analyst Program at Purwadhika. The application implements fundamental CRUD (Create, Read, Update, Delete) concepts to manage store product data through a Command Line Interface (CLI).
 
