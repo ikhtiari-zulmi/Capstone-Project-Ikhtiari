@@ -11,9 +11,7 @@ notes: This app runs using Bahasa Indonesia as Interface language.
 
 Aplikasi ini digunakan untuk mengelola data barang toko. 
 Fitur yang tersedia dalam aplikasi ini meliputi:
-- Menampilkan seluruh data barang
-- Memfilter data barang berdasarkan kategori
-- Mencari data barang berdasarkan kode atau nama
+- Menampilkan seluruh data, memfilter berdasarkan kategori, Mencari berdasarkan kode atau nama barang
 - Menambahkan data barang baru
 - Mengubah data barang yang sudah ada
 - Menghapus data barang dengan mekanisme Recycle Bin
@@ -119,3 +117,10 @@ Menu Exit digunakan untuk mengakhiri penggunaan aplikasi.
 Saat user memilih menu ini, aplikasi akan berhenti dan menampilkan pesan “Terimakasih!”.
 
 <img width="556" height="262" alt="image" src="https://github.com/user-attachments/assets/d4218282-314d-4434-a518-3135e4a90a91" />
+
+# How to Run the Program
+1. Make sure Python 3 is installed
+2. Install required library:
+   pip install prettytable
+3. Run the program:
+   Capstone Project 2 - Ikhtiari Zulmiati Arifin Pua Geno.py
